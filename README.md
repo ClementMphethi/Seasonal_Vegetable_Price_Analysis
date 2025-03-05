@@ -1,6 +1,7 @@
 # Seasonal Vegetable Price Trend Analysis
 
-1. Project Overview
+
+## 1. Project Overview
 This project aims to analyze seasonal price variations in vegetables, driven primarily by supply and demand, weather conditions, transportation costs, consumer preferences, and climate change impacts. Understanding these seasonal patterns is crucial for producers to optimize crop production, resource management, marketing strategies, risk mitigation, and financial planning.
 
 ## Key Factors Affecting Vegetable Prices:
